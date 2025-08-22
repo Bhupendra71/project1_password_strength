@@ -27,7 +27,9 @@ project1_password_strength/
 
 
 ## 📸 Screenshot
-![Password Strength Checker Screenshot](screenshot.png)
+<img width="1498" height="816" alt="Screenshot 2025-08-22 181027" src="https://github.com/user-attachments/assets/c6050eb3-1a59-42b9-aca5-a773027f2553" />
+
+
 
 
 ## ⚡ How It Works
@@ -43,4 +45,5 @@ project1_password_strength/
 ## 👨‍💻 Author
 - **Bhupendra Tomar**  
 - GitHub: [bhupendra71](https://github.com/bhupendra71)
+
 
