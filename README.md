@@ -3,7 +3,7 @@ A simple web-based Password Strength Checker built using **HTML, CSS, and JavaSc
 It checks the strength of a password in real time as the user types and classifies it as **Weak, Medium, or Strong**.
 
 ## 🚀 Features
-- ✅ Real-time password strength detection  
+- ✅ Real-time password strength detection.  
 - ✅ Visual feedback with color indicators (Red, Orange, Green)  
 - ✅ Responsive and simple UI  
 - ✅ Beginner-friendly project to learn DOM manipulation  
@@ -45,5 +45,6 @@ project1_password_strength/
 ## 👨‍💻 Author
 - **Bhupendra Tomar**  
 - GitHub: [bhupendra71](https://github.com/bhupendra71)
+
 
 
